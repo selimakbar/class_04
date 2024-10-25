@@ -1,0 +1,26 @@
+body{background-color: lightblue;}
+
+h1{
+	color: black;
+	text-align: center;
+	border: 5px solid black;
+}
+
+h2{
+	background-color: dodgerblue;
+	border: 5px dotted tomato;
+	font-size: 20px;
+	margin: 100px 100px 80px 80px;
+}
+p{
+	font-family: verdana;
+	font-size: 20px;
+	background-color: tomato;
+	border: solid blueviolet;
+	padding: 50px 30px 20px 50px;}
+
+	ul.a{
+		list-style-type: square;}
+	ul.b{
+		list-style-type: circle;
+	}
